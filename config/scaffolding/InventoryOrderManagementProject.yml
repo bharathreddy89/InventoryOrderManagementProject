@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/bharathreddy89
   gitUsername: bharathreddy89
   gitBranch: main
+- name: DeliveryPartner
+  gitServerName: OrderManagementRepo
+  gitUrl: https://github.com/bharathreddy89
+  gitUsername: bharathreddy89
+  gitBranch: main
