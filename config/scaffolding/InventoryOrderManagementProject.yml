@@ -7,12 +7,12 @@ packages:
   gitUrl: https://github.com/bharathreddy89
   gitUsername: bharathreddy89
   gitBranch: main
-- name: OrderHistory
+- name: DeliveryPartner
   gitServerName: OrderManagementRepo
   gitUrl: https://github.com/bharathreddy89
   gitUsername: bharathreddy89
   gitBranch: main
-- name: DeliveryPartner
+- name: OrderHistory
   gitServerName: OrderManagementRepo
   gitUrl: https://github.com/bharathreddy89
   gitUsername: bharathreddy89
